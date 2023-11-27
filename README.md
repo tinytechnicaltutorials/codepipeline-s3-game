@@ -11,10 +11,10 @@ A simple memory matching game.  The user clicks two cards (images of memes) to t
 The game consists of HTML, CSS and JavaScript.
 
 Ideas for additional features:
--A scoring mechanism
--A timer
--Add additional cards
--Multi-player capabilities so you can compare scores 
+- A scoring mechanism
+- A timer
+- Add additional cards
+- Multi-player capabilities so you can compare scores 
 
 ## The Deployment Environment
 The code will be deployed and hosted in S3.
